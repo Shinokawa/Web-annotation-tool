@@ -19,7 +19,7 @@
 
 ```bash
 git clone https://github.com/Shinokawa/lane-annotation-tool.git
-cd lane-annotation-tool
+cd Web-annotation-tool
 pip install -r requirements.txt
 ```
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ## 目录结构
 
 ```
-lane-annotation-tool/
+Web-annotation-tool/
 ├── app.py                   # Flask应用主文件
 ├── start.py                 # 应用启动器
 ├── requirements.txt         # Python依赖包
