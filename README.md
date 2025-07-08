@@ -18,7 +18,7 @@
 ### 安装
 
 ```bash
-git clone [仓库地址]
+git clone https://github.com/Shinokawa/lane-annotation-tool.git
 cd lane-annotation-tool
 pip install -r requirements.txt
 ```
